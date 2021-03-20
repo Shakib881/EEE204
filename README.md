@@ -1,6 +1,6 @@
 # myEEE204
 Course Name: Numerical Analysis For Electrical Engineering;
-Tentative Course Outline:
+ Tentative Course Outline:
 Topics to be covered throughout the semester and tentative number of lectures for each topic:
 1. Introduction (Error analysis, Taylor series) - 2
 2. Roots of equations (Bracketing and open methods) - 4
