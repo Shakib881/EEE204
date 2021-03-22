@@ -4,6 +4,7 @@ x = linspace(-0,2*pi,1000);
 f = sin(x);
 
 a = pi/3;
+%%terms starts here%%
 f0 = sin(a);
 f1 = cos(a);
 f2 = -sin(a);
