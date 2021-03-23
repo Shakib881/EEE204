@@ -1,3 +1,8 @@
+%chapter- 5, bracketing methods
+%Example 5.1
+%Book: Numerical Method by Steven Chapra
+%Code Demonesterd by Dr. Redwan Noor Sajjad 
+
 ep_s = 1e-3;
 error = 1;
 xl = 12;
