@@ -33,7 +33,7 @@ hold off
 grid on
 
 figure(2)
-title('Taylor Series Approximation of Sin (x)')
+title('Taylor Series Approximation of sin(x)')
 hold on
 plot(x,f,'b','DisplayName','sin(x)')
 plot(x,T2,'c','DisplayName','T2')
