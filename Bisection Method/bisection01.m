@@ -22,6 +22,8 @@ while error > ep_s
    end
    
    xr_new = xr;
-   error = abs((xr_new - xr_old
+   error = abs((xr_new - xr_old)/xr_new)*100;
+   
+   xr_old = xr_new;
     
 end   
