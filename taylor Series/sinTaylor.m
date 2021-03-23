@@ -23,7 +23,7 @@ T6 = f0 + f1 + f2*(x-a) + f3*(x-a).^3 /6 + f4*(x-a).^4 /24 + f5*(x-a).^5/720;
 
 
 figure(1)
-title('Sine Graph With Final Taylor Series');
+title('Sine Graph V/s Final Taylor Series');
 hold on
 plot(x,f,'b')
 plot(x,T6,'r')
