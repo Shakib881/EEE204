@@ -21,9 +21,9 @@ while error > ep_s
         xu = xr;
    end
    
-   xr_new = xr;
-   error = abs((xr_new - xr_old)/xr_new)*100;
-   
-   xr_old = xr_new;
-    
+%    xr_new = xr;
+%    error = abs((xr_new - xr_old)/xr_new)*100;
+%    
+%    xr_old = xr_new;
+%     
 end   
