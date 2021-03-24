@@ -1,7 +1,7 @@
 xl = 2;
 xu = 3;
 
-for k=1:15
+for k=1:14
 xr = (xl+xu)/2;
 fxl = 2*xl+0.026*log(xl/10^-12)-5;
 fxu = 2*xl+0.026*log(xu/10^-12)-5;
